@@ -44,7 +44,7 @@ offset: offset
 limit: Count
 ```
 
-Example: `/v1/playlist?cat=古风&offset=0&limit=35`
+Example: `/v1/music/comments?id=1390853266`
 
 ### Get detail of songs
 
