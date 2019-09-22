@@ -28,7 +28,7 @@ Example: `/v1/lyric?id=1390853266`
 
 ```
 /v1/playlist
-cat: Playlist_cat
+type: Playlist_type
 offset: List_offset
 limit: Count
 ```
