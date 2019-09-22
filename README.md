@@ -33,7 +33,7 @@ offset: List_offset
 limit: Count
 ```
 
-Example: `/v1/playlist?cat=古风&offset=0&limit=35`
+Example: `/v1/playlist?type=古风&offset=0&limit=35`
 
 ### Get comments of songs
 
